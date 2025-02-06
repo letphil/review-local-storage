@@ -88,7 +88,6 @@ console.log(localStorage.length); // Should return 0
 ### **3. Interactive Mini-Project**
 
 **Build a Simple Form Saver**
-**Instructor:**  
 “Now, let’s create a simple form where users can enter their name and email. The data should persist even after refreshing the page.”
 
 **HTML & JavaScript:**
