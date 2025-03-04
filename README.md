@@ -15,12 +15,12 @@ By the end of this session, students will:
 
 ### **Lesson Breakdown:**
 
-| Time        | Activity                 | Description                                      |
-| ----------- | ------------------------ | ------------------------------------------------ |
-| 0:00 - 0:10 | Quick Recap              | Review key LocalStorage concepts.                |
-| 0:10 - 0:30 | Coding Exercises         | Hands-on challenges to test LocalStorage skills. |
-| 0:30 - 0:50 | Interactive Mini-Project | Build a small feature using LocalStorage.        |
-| 0:50 - 1:00 | Q&A & Homework           | Answer questions and assign homework.            |
+| Activity                 | Description                                      |
+| ------------------------ | ------------------------------------------------ |
+| Quick Recap              | Review key LocalStorage concepts.                |
+| Coding Exercises         | Hands-on challenges to test LocalStorage skills. |
+| Interactive Mini-Project | Build a small feature using LocalStorage.        |
+| Q&A & Homework           | Answer questions and assign homework.            |
 
 ---
 
@@ -31,7 +31,7 @@ By the end of this session, students will:
 3. `removeItem(key)` – Deletes a specific item.
 4. `clear()` – Removes all stored data.
 
-Let’s open DevTools (`F12` → `Application` → `LocalStorage`) and check if you still have data stored from our last lesson.”
+open DevTools and check if you still have data stored from our last lesson.
 
 ---
 

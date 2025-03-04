@@ -33,6 +33,12 @@
         align-items: center;
         padding: 0 20px;
       }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
     </style>
   </head>
   <body>
@@ -51,6 +57,7 @@
       function ListItemUI(task, taskIdx) {
         return `
             <div
+              draggable="true"
               class='list-item'
             >
               <p style="display: inline; text-decoration: ${
